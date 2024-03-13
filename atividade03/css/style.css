@@ -1,0 +1,19 @@
+body {
+    background-color: #242424;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+}
+.negrito{
+    font-weight: bold;
+}
+.italico {
+    font-style:italic ;
+}
+mark, code {
+    border-radius: 4px;
+}
+code {
+    background: #464646;
+
+}
